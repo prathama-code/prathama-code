@@ -2,7 +2,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathama-khartade-026a411a6)](https://www.linkedin.com/in/prathama-khartade-026a411a6)
+[![Linkedin Badge](https://img.shields.io/badge/-Prathama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathama-khartade-026a411a6)](https://www.linkedin.com/in/prathama-khartade-026a411a6)
 
 
 
